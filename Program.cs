@@ -16,7 +16,7 @@ namespace CRUD_Project_LMS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormDataBuku());
+            Application.Run(new FormLogin());
         }
     }
 }
